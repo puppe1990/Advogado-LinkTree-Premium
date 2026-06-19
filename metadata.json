@@ -1,0 +1,6 @@
+{
+  "name": "Advogado LinkTree Premium",
+  "description": "Template estilo Linktree corporativo premium e altamente personalizável para advogados de alta performance, incluindo agendamento online integrado, destaque de especialidades e botões inteligentes de WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
